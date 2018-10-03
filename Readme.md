@@ -2,6 +2,7 @@
 
 Running it:compile will cause
 
+```
 sbt:DeprecatedValueBug> it:compile
 [info] Updating ...
 [info] Done updating.
@@ -17,3 +18,4 @@ sbt:DeprecatedValueBug> it:compile
 [error] one error found
 [error] (IntegrationTest / compileIncremental) Compilation failed
 [error] Total time: 1 s, completed 01.10.2018 23:11:52
+```
