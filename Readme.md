@@ -19,3 +19,5 @@ sbt:DeprecatedValueBug> it:compile
 [error] (IntegrationTest / compileIncremental) Compilation failed
 [error] Total time: 1 s, completed 01.10.2018 23:11:52
 ```
+
+The issue was reported as https://github.com/scala/bug/issues/11190
